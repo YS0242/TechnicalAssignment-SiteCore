@@ -1,0 +1,15 @@
+/Users/yongshen/Task3/Task3/Task3/bin/Debug/net7.0/Task3
+/Users/yongshen/Task3/Task3/Task3/bin/Debug/net7.0/Task3.deps.json
+/Users/yongshen/Task3/Task3/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/Users/yongshen/Task3/Task3/Task3/bin/Debug/net7.0/Task3.dll
+/Users/yongshen/Task3/Task3/Task3/bin/Debug/net7.0/Task3.pdb
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.csproj.AssemblyReference.cache
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.dll
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/refint/Task3.dll
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.pdb
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/Users/yongshen/Task3/Task3/Task3/obj/Debug/net7.0/ref/Task3.dll
